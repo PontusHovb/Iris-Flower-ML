@@ -2,7 +2,7 @@
 The Iris Flower dataset is a built-in dataset in Scikit learn and contains data on Sepal Length, Sepal Width, Petal Length and Petal Width for 3 different types of irises’ (Setosa, Versicolour, and Virginica). In this project 5 different machine learning methods (Decision Tree, Support Vector Machine, Random Forest, Naive Bayes and K-nearest neighbour) are compared using Scikit-learn built in methods. In addition, Gaussian Mixture Model and K-means algorithm are implemented from scratch. This project was created as a homework assignment in a course in Machine Learning at National University of Singapore (NUS).
 
 ## Scikit-learn methods
-In [ModelComparison.py](link) the built-in scikit-learn libraries for five different machine learning methods are implemented and compared, these are:
+In [ModelComparison.py](https://github.com/PontusHovb/Iris-Flower-ML/blob/main/ModelComparison.py) the built-in scikit-learn libraries for five different machine learning methods are implemented and compared, these are:
 - Decision Tree
 - Support Vector Machine
 - Random Forest
@@ -11,18 +11,18 @@ In [ModelComparison.py](link) the built-in scikit-learn libraries for five diffe
 
 ## ML-algorithms built from scratch
 In addition to the five pre-defined algorithms in Scikit-learn, two of them are built from scratch, these are:
-- [Gaussian Mixture Model EM Algorithm](link)
-- [K-means Clustering](link)
+- [Gaussian Mixture Model EM Algorithm](https://github.com/PontusHovb/Iris-Flower-ML/blob/main/gaussian_mixture_model.py)
+- [K-means Clustering](https://github.com/PontusHovb/Iris-Flower-ML/blob/main/k_means.py)
 
 #### Gaussian Mixture Model
 <p align="center">
-    <img src="link" width="400"/>
+    <img src="https://github.com/PontusHovb/Iris-Flower-ML/blob/main/Plots/Gaussian%20Mixture%20Model.png" width="400"/>
 </p>
 <p align="center"><i>Gaussian Mixture Model</i></p>
 
 ### K-means algorithm
 <p align="center">
-    <img src="link" width="400"/>
+    <img src="https://github.com/PontusHovb/Iris-Flower-ML/blob/main/Plots/K-means%20Clustering.png" width="400"/>
 </p>
 <p align="center"><i>K-means clustering</i></p>
 
